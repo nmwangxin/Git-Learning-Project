@@ -4,3 +4,7 @@
 #This is the second edit
 
 #This is the 3rd edit, will commit, but not push.
+
+#This is the 4th edit, will add, but not commit.
+
+#This is the 5th edit, will add, commit, and push.
