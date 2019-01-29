@@ -10,3 +10,5 @@
 #This is the 5th edit, will add, commit, and push.
 
 #This is the 7th edit (previoud 6th eidt includes error, so rolled back to 5th), will add, commit, and push
+
+#This is the 8th edit, directly in GitHub, to be pulled to local master.
